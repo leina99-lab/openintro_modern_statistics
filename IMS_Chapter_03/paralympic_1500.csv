@@ -1,0 +1,83 @@
+year,division,type,time_min,country_of_athlete,country_of_games
+1896,Men,Olympic,4.55,Australia,Greece
+1900,Men,Olympic,4.1,Great Britain,France
+1904,Men,Olympic,4.09,USA,USA
+1908,Men,Olympic,4.06,USA,United Kingdom
+1912,Men,Olympic,3.95,Great Britain,Sweden
+1920,Men,Olympic,4.02,Great Britain,Belgium
+1924,Men,Olympic,3.86,Finland,France
+1928,Men,Olympic,3.82,Finland,Netherlands
+1932,Men,Olympic,3.82,Italy,USA
+1936,Men,Olympic,3.78,New Zealand,Germany
+1948,Men,Olympic,3.82,Sweden,United Kingdom
+1952,Men,Olympic,3.75,Luxembourg,Finland
+1956,Men,Olympic,3.68,Ireland,Australia
+1960,Men,Olympic,3.6,Australia,Italy
+1964,Men,Olympic,3.67,New Zealand,Japan
+1968,Men,Olympic,3.57,Kenya,Mexico
+1972,Men,Olympic,3.61,Finland,Germany
+1976,Men,Olympic,3.65,New Zealand,Canada
+1980,Men,Olympic,3.65,Great Britain,USSR
+1984,Men,Olympic,3.55,Great Britain,USA
+1988,Men,Olympic,3.6,Kenya,South Korea
+1992,Men,Olympic,3.67,Algeria,Spain
+1996,Men,Olympic,3.6,Algeria,USA
+2000,Men,Olympic,3.58,Kenya,Australia
+2004,Men,Olympic,3.52,Morocco,Greece
+2008,Men,Olympic,3.55,Bahrain,China
+2012,Men,Olympic,3.57,Algeria,United Kingdom
+2016,Men,Olympic,3.83,USA,Brazil
+2020,Men,Olympic,3.53,Great Britain,Japan
+1976,Men,T11,4.31,Algeria,Canada
+1980,Men,T11,4.28,Brazil,USSR
+1984,Men,T11,4.25,Kenya,USA
+1988,Men,T11,4.18,Algeria,South Korea
+1992,Men,T11,4.15,Algeria,Spain
+1996,Men,T11,4.12,Brazil,USA
+2000,Men,T11,4.1,Kenya,Australia
+2004,Men,T11,4.08,Kenya,Greece
+2008,Men,T11,4.05,Algeria,China
+2012,Men,T11,4.02,Tunisia,United Kingdom
+2016,Men,T11,4.0,Algeria,Brazil
+2020,Men,T11,3.96,Algeria,Japan
+1984,Men,T12,4.25,USA,USA
+1988,Men,T12,4.2,USA,South Korea
+1992,Men,T12,4.15,Kenya,Spain
+1996,Men,T12,4.1,USA,USA
+2000,Men,T12,4.05,Spain,Australia
+2004,Men,T12,4.02,Kenya,Greece
+2008,Men,T12,3.98,Spain,China
+2012,Men,T12,3.95,Spain,United Kingdom
+2016,Men,T12,3.94,Spain,Brazil
+2020,Men,T12,3.92,Spain,Japan
+1984,Men,T13,4.24,Algeria,USA
+1988,Men,T13,4.18,Algeria,South Korea
+1992,Men,T13,4.12,Tunisia,Spain
+1996,Men,T13,4.05,Tunisia,USA
+2000,Men,T13,3.98,Algeria,Australia
+2004,Men,T13,3.92,Algeria,Greece
+2008,Men,T13,3.88,Algeria,China
+2012,Men,T13,3.85,Russia,United Kingdom
+2016,Men,T13,3.8,Russia,Brazil
+2020,Men,T13,3.9,Russia,Japan
+1972,Women,Olympic,4.18,Algeria,Germany
+1976,Women,Olympic,4.08,Ethiopia,Canada
+1980,Women,Olympic,3.98,Ethiopia,USSR
+1984,Women,Olympic,4.05,Ethiopia,USA
+1988,Women,Olympic,3.95,Ethiopia,South Korea
+1992,Women,Olympic,3.88,Great Britain,Spain
+1996,Women,Olympic,4.02,Algeria,USA
+2000,Women,Olympic,4.08,Algeria,Australia
+2004,Women,Olympic,3.95,Great Britain,Greece
+2008,Women,Olympic,4.05,Algeria,China
+2012,Women,Olympic,4.07,Great Britain,United Kingdom
+2016,Women,Olympic,4.08,Ethiopia,Brazil
+2020,Women,Olympic,3.88,Great Britain,Japan
+1992,Women,T11,5.63,Mexico,Spain
+1996,Women,T11,5.5,Tunisia,USA
+2000,Women,T11,5.35,Mexico,Australia
+2004,Women,T11,5.2,Tunisia,Greece
+2008,Women,T11,5.1,Tunisia,China
+2012,Women,T11,4.95,Mexico,United Kingdom
+2016,Women,T11,4.8,Mexico,Brazil
+2020,Women,T11,4.62,Tunisia,Japan
